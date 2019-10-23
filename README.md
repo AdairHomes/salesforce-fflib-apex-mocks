@@ -6,7 +6,7 @@ ApexMocks is a mocking framework for the Force.com Apex language.
 
 It derives it's inspiration from the well known Java mocking framework [Mockito](https://code.google.com/p/mockito/)
 
-<a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=fflib-apex-mocks">
+<a href="https://githubsfdeploy.herokuapp.com?owner=AdairHomes&repo=salesforce-fflib-apex-mocks">
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>
